@@ -1,6 +1,6 @@
 // CSS imports
 
-import PokeminList from '../PokemonList/PokeminList';
+import PokeminList from '../PokemonList/PokemonList';
 import Search from '../Search/Search';
 import './Pokedex.css';
 
