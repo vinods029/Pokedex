@@ -44,7 +44,7 @@ function PokemonDetails({ pokemonName }){
         </div>
         </div>}
         <div className='similar-pokemons'>
-        <h2>Similar types of pokemons</h2>
+        <h2>Similar Types of pokemons:</h2>
         <div className='pokemon-similar-boxes'>
         {pokemonListState.pokemonList.length >0 && 
         
